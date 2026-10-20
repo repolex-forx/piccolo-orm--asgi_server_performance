@@ -1,0 +1,32 @@
+{
+  "manifest_version": "1.0",
+  "org": "piccolo-orm",
+  "repo": "asgi_server_performance",
+  "versions": [
+    {
+      "commit": "05b0f9707ce7c3acbe39fb3a45c0b2c24b364100",
+      "parsed_at": "2026-10-20T22:18:51.201333+00:00",
+      "filetree": "filetree/05b0f9707ce7c3acbe39fb3a45c0b2c24b364100.nq.gz",
+      "blobs": [
+        "blob/f185bba7733ce0cedef1a50490b26377aaed22b1.nq.gz",
+        "blob/0221707cd44b4882afc1b8e28ff39e4b42cc5cdc.nq.gz",
+        "blob/efcec5e7165631b243058b561481f86eae259c50.nq.gz",
+        "blob/b268446b5208b39cfd86079578ce6b341e1e67bc.nq.gz",
+        "blob/62e02d5ad23675d75b9dce0cd3aab52245df9b66.nq.gz",
+        "blob/e49b154999ef4beaf3bb5ea2fb3a87df59176f2f.nq.gz",
+        "blob/efa2d343f3e911ea472d497022e361dad819efed.nq.gz",
+        "blob/94a76dd85a98fd5d93ed2120bc6c633aad205fa3.nq.gz",
+        "blob/4a61cb2b3113cffce307c4cc19df84650106e98d.nq.gz",
+        "blob/ea11954be5501799009f149fb26b8292ab965ec6.nq.gz",
+        "blob/063a8a6c04c3841e956af1f60aa8e79087815e61.nq.gz",
+        "blob/8fe2f94cc26274e7d66fad834d0aa26548fa6772.nq.gz",
+        "blob/b13f7b335b1d6526927798d0067b753c55eca7cf.nq.gz",
+        "blob/3dd8a9f9435e3ec7d42a4e457c9cd7346bfedd5c.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
